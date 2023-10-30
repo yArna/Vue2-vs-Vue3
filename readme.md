@@ -9,8 +9,8 @@ For our complex web application, modifying large reactive objects is crucial. Th
 
 
 
-- [vue2-test]([./](https://yarna.github.io/Vue2-vs-Vue3/vue2/dist/index.html))
-- [vue3-test]([./](https://yarna.github.io/Vue2-vs-Vue3/vue3/dist/index.html))
+- [vue2-test](https://yarna.github.io/Vue2-vs-Vue3/vue2/dist/index.html)
+- [vue3-test](https://yarna.github.io/Vue2-vs-Vue3/vue3/dist/index.html)
 
 ## Test Result
 
