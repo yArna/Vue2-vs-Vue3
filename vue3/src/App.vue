@@ -146,7 +146,7 @@ function changeSort() {
 
     <div class="tools">
       <div class="div">
-        Vue2 <b>{{ count }}</b
+        Vue3 <b>{{ count }}</b
         >items
         <span
           >timeInitData: <b>{{ timeInitData.toFixed(2) }}ms</b></span
