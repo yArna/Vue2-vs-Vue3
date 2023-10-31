@@ -23,7 +23,10 @@ Vue3 has likely made significant improvements in component rendering, which comp
 
 However, it's essential to note that when the modifications to reactive data become more frequent, taking up a larger proportion of the total execution time compared to component rendering, Vue3's overall speed might not surpass Vue2.
 
-<img width="1232" alt="image" src="https://github.com/yArna/Vue2-vs-Vue3/assets/82231420/9ccc9deb-07cb-48dd-9ab1-28d52a5d0689">
+ 
+
+<img width="1313" alt="image" src="https://github.com/yArna/Vue2-vs-Vue3/assets/82231420/238289ae-fae4-4816-8def-d7a1fc2b536b">
+
 
 _ |Vue2|Vue3
 ---|---|---
